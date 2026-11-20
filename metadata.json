@@ -1,0 +1,6 @@
+{
+  "name": "Syaé Coffee",
+  "description": "Aplikasi pemesanan coffee shop Syaé Coffee untuk pembeli dan pemilik kedai dengan menu kopi pilihan, keranjang, dan riwayat pesanan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
